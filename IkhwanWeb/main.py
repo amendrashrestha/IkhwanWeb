@@ -17,7 +17,7 @@ class IkhwanWebCrawler(object):
             time.sleep(10)
             soup = bs(self.client.page_source, "lxml")
 
-            #testing
+            #testing asfasdfsdf
             title = soup.title.string
 
             container = soup.find("div",{"id":"ja-container"})
