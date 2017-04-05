@@ -211,3 +211,117 @@ JavaScript error: http://www.ikhwanweb.com/article.php?id=32799, line 411: Refer
 JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
 JavaScript warning: http://www.ikhwanweb.com/js/mootools.js, line 35: String.prototype.contains() is deprecated and will be removed in a future release; use String.prototype.includes() instead
 JavaScript error: http://www.ikhwanweb.com/article.php?id=32799, line 411: ReferenceError: equalHeight is not defined
+1491381606646	geckodriver	INFO	Listening on 127.0.0.1:58127
+1491381607646	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.I15H35PVfiZQ
+1491381607647	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491381607678	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58136
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.8d056d434484b1d6ae51.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1491381653902	geckodriver	INFO	Listening on 127.0.0.1:58173
+1491381653908	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.tVDwWs2f9vOU
+1491381653909	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491381653910	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58180
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair.8d056d434484b1d6ae51.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1491381922216	geckodriver	INFO	Listening on 127.0.0.1:58384
+1491381922222	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.dn731h5Ur68C
+1491381922223	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491381922233	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58391
+1491381922794	Marionette	INFO	Listening on port 58391
+2017-04-05 10:45:24.014 plugin-container[8227:2640127] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-05 10:45:24.015 plugin-container[8227:2640127] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript error: http://www.ikhwanweb.com/article.php?id=32804, line 411: ReferenceError: equalHeight is not defined
+1491381942484	geckodriver	INFO	Listening on 127.0.0.1:58544
+1491381942490	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.udOwcReKKlya
+1491381942490	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491381942492	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58551
+1491381943048	Marionette	INFO	Listening on port 58551
+2017-04-05 10:45:44.317 plugin-container[8248:2642840] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-05 10:45:44.318 plugin-container[8248:2642840] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript error: http://www.ikhwanweb.com/article.php?id=32804, line 411: ReferenceError: equalHeight is not defined
+1491381968325	geckodriver	INFO	Listening on 127.0.0.1:58695
+1491381968331	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.rDHjjU7OQMpc
+1491381968332	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491381968333	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58702
+1491381968897	Marionette	INFO	Listening on port 58702
+2017-04-05 10:46:10.133 plugin-container[8266:2645395] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-05 10:46:10.133 plugin-container[8266:2645395] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript error: http://www.ikhwanweb.com/article.php?id=32805, line 411: ReferenceError: equalHeight is not defined
+1491382087935	geckodriver	INFO	Listening on 127.0.0.1:58885
+1491382087942	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.BrdSFB2E7Fjp
+1491382087942	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491382087944	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58892
+1491382088509	Marionette	INFO	Listening on port 58892
+2017-04-05 10:48:09.798 plugin-container[8293:2662733] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-05 10:48:09.798 plugin-container[8293:2662733] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript error: http://www.ikhwanweb.com/article.php?id=32805, line 411: ReferenceError: equalHeight is not defined
+1491382208264	geckodriver	INFO	Listening on 127.0.0.1:59058
+1491382208270	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.Rf3kOzW2loEp
+1491382208270	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491382208272	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59065
+1491382208823	Marionette	INFO	Listening on port 59065
+2017-04-05 10:50:10.065 plugin-container[8323:2675928] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-05 10:50:10.066 plugin-container[8323:2675928] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript error: http://www.ikhwanweb.com/article.php?id=32805, line 411: ReferenceError: equalHeight is not defined
+1491382331477	geckodriver	INFO	Listening on 127.0.0.1:59234
+1491382331483	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.qDXWZHDA87FM
+1491382331484	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491382331485	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59241
+1491382332057	Marionette	INFO	Listening on port 59241
+2017-04-05 10:52:13.345 plugin-container[8366:2692211] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-05 10:52:13.345 plugin-container[8366:2692211] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript error: http://www.ikhwanweb.com/article.php?id=32805, line 411: ReferenceError: equalHeight is not defined
+1491382468802	geckodriver	INFO	Listening on 127.0.0.1:59403
+1491382468807	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.5euBOQW6ILJs
+1491382468808	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491382468809	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59410
+1491382469371	Marionette	INFO	Listening on port 59410
+2017-04-05 10:54:30.660 plugin-container[8398:2708918] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-05 10:54:30.660 plugin-container[8398:2708918] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript error: http://platform.twitter.com/widgets.js, line 8: SyntaxError: missing } after function body
+JavaScript error: http://www.ikhwanweb.com/article.php?id=32805, line 411: ReferenceError: equalHeight is not defined
+1491382569974	geckodriver	INFO	Listening on 127.0.0.1:59541
+1491382569980	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.AURJjXIGmjuB
+1491382569981	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491382569982	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59548
+1491382570548	Marionette	INFO	Listening on port 59548
+2017-04-05 10:56:11.796 plugin-container[8433:2719043] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-05 10:56:11.797 plugin-container[8433:2719043] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript error: http://www.ikhwanweb.com/article.php?id=32805, line 411: ReferenceError: equalHeight is not defined
+1491382691915	geckodriver	INFO	Listening on 127.0.0.1:59690
+1491382691921	mozprofile::profile	INFO	Using profile path /var/folders/kf/mmn874t931g6y9zr0sw1zrlr0000gn/T/rust_mozprofile.yV38R153bEOR
+1491382691921	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1491382691923	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59697
+1491382692489	Marionette	INFO	Listening on port 59697
+2017-04-05 10:58:13.763 plugin-container[8475:2733496] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x983b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-04-05 10:58:13.763 plugin-container[8475:2733496] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9b03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://www.ikhwanweb.com/js/jquery13.js, line 2304: unreachable code after return statement
+JavaScript error: http://www.ikhwanweb.com/article.php?id=32805, line 411: ReferenceError: equalHeight is not defined

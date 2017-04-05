@@ -51,13 +51,16 @@ class IkhwanWebCrawler(object):
                 soup = bs(self.client.page_source, "html.parser")
 
                 title = soup.title.string
-                article_date = "abc"
 
                 container = soup.find("div",{"id":"ja-container"})
-                article = container.find("div",{"id":"vozme"})
-                article = utilities.cleanText(article)
 
-                article_info = [article_date,title,article]
+                table = container.find("div",{"id":"ja-mainbody"})
+                tr_list = table.find_all("tr")
+                article_date = utilities.cleanText(tr_list[10])
+
+                article = utilities.cleanText(container.find("div",{"id":"vozme"}))
+
+                article_info = [article_date, title, article]
 
                 with open(self.posts_filepath, "a", encoding='utf-8') as text_file:
                     for item in article_info:
